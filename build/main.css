@@ -84,10 +84,10 @@ section .product-button:hover {
   }
 }
 @media screen and (max-width: 767px) {
-  .products {
+  section .products {
     display: block;
   }
-  .product-item {
+  section .product-item {
     margin-bottom: 32px;
   }
 }

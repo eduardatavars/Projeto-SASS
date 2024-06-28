@@ -88,11 +88,13 @@ section {
 }
 
 @media screen and (max-width: variaveis.$mobile) {
-    .products {
-        display: block;
-    }
-
-    .product-item {
-        margin-bottom: 32px;
+    section {
+        .products {
+            display: block;
+        }
+    
+        .product-item {
+            margin-bottom: 32px;
+        }
     }
 }
