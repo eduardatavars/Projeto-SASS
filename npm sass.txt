@@ -1,0 +1,20 @@
+Prompt
+
+node
+
+npm install -g sass
+
+cd d/c:/
+
+ls
+
+
+vscode
+
+package.js > "sass": "sass source/main.css build/main.css --watch",
+
+npm init 
+
+npm i --save-dev sass
+
+npm run sass
